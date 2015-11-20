@@ -1,0 +1,481 @@
+# 2WH3WH 1 3wh_SO
+Peter tried to remember who carried what when.
+? Did Peter try to carry something? No
+
+# 2WH3WH 1 3wh_OS
+Peter tried to remember what who carried when.
+? Did Peter try to carry something? No
+
+# 2WH3WH 1 2wh_SO
+Peter tried to remember who carried what.
+? Did Peter try to carry something? No
+
+# 2WH3WH 1 2wh_OS
+Peter tried to remember what who carried.
+? Did Peter try to carry something? No
+
+# 2WH3WH 2 3wh_SO
+The manager tried to figure out who gave what to whom.
+? Did the manager try to figure something out? Yes
+
+# 2WH3WH 2 3wh_OS
+The manager tried to figure out what who gave to whom.
+? Did the manager try to figure something out? Yes
+
+# 2WH3WH 2 2wh_SO
+The manager tried to figure out who gave what.
+? Did the manager try to figure something out? Yes
+
+# 2WH3WH 2 2wh_OS
+The manager tried to figure out what who gave.
+? Did the manager try to figure something out? Yes
+
+# 2WH3WH 3 3wh_SO
+The supervisor tried to find out who mailed what to whom.
+? Did the supervisor try to figure something out? Yes
+
+# 2WH3WH 3 3wh_OS
+The supervisor tried to find out what who mailed to whom.
+? Did the supervisor try to figure something out? Yes
+
+# 2WH3WH 3 2wh_SO
+The supervisor tried to find out who mailed what.
+? Did the supervisor try to figure something out? Yes
+
+# 2WH3WH 3 2wh_OS
+The supervisor tried to find out what who mailed.
+? Did the supervisor try to figure something out? Yes
+
+# 2WH3WH 4 3wh_SO
+The department head was trying to figure out who left what where.
+? Did the department head try to figure something out? Yes
+
+# 2WH3WH 4 3wh_OS
+The department head was trying to figure out what who left where.
+? Did the department head try to figure something out? Yes
+
+# 2WH3WH 4 2wh_SO
+The department head was trying to figure out who left what.
+? Did the department head try to figure something out? Yes
+
+# 2WH3WH 4 2wh_OS
+The department head was trying to figure out what who left.
+? Did the department head try to figure something out? Yes
+
+# 2WH3WH 5 3wh_SO
+The foreman asked who sold what to whom.
+? Did the foreman ask about who sold something? Yes
+
+# 2WH3WH 5 3wh_OS
+The foreman asked what who sold to whom.
+? Did the foreman ask about who sold something? Yes
+
+# 2WH3WH 5 2wh_SO
+The foreman asked who sold what.
+? Did the foreman ask about who sold something? Yes
+
+# 2WH3WH 5 2wh_OS
+The foreman asked what who sold.
+? Did the foreman ask about who sold something? Yes
+
+# 2WH3WH 6 3wh_SO
+The seminar leader asked who owed what to whom.
+? Did the seminar leader ask about who owed something? Yes
+
+# 2WH3WH 6 3wh_OS
+The seminar leader asked what who owed to whom.
+? Did the seminar leader ask about who owed something? Yes
+
+# 2WH3WH 6 2wh_SO
+The seminar leader asked who owed what.
+? Did the seminar leader ask about who owed something? Yes
+
+# 2WH3WH 6 2wh_OS
+The seminar leader asked what who owed.
+? Did the seminar leader ask about who owed something? Yes
+
+# 2WH3WH 7 3wh_SO
+The professor tried to decide who should assign what to whom.
+? Did the professor try to decide about who should assign something? Yes
+
+# 2WH3WH 7 3wh_OS
+The professor tried to decide what who should assign to whom.
+? Did the professor try to decide about who should assign something? Yes
+
+# 2WH3WH 7 2wh_SO
+The professor tried to decide who should assign what.
+? Did the professor try to decide about who should assign something? Yes
+
+# 2WH3WH 7 2wh_OS
+The professor tried to decide what who should assign.
+? Did the professor try to decide about who should assign something? Yes
+
+# 2WH3WH 8 3wh_SO
+The negotiator tried to memorize who promised what to whom.
+? Did the negotiator try to memorize who promised something? Yes
+
+# 2WH3WH 8 3wh_OS
+The negotiator tried to memorize what who promised to whom.
+? Did the negotiator try to memorize who promised something? Yes
+
+# 2WH3WH 8 2wh_SO
+The negotiator tried to memorize who promised what.
+? Did the negotiator try to memorize who promised something? Yes
+
+# 2WH3WH 8 2wh_OS
+The negotiator tried to memorize what who promised.
+? Did the negotiator try to memorize who promised something? Yes
+
+# 2WH3WH 9 3wh_SO
+The cooking instructor was trying to remember who cooked what when.
+? Did the cooking instructor try to remember who cooked something? Yes
+
+# 2WH3WH 9 3wh_OS
+The cooking instructor was trying to remember what who cooked when.
+? Did the cooking instructor try to remember who cooked something? Yes
+
+# 2WH3WH 9 2wh_SO
+The cooking instructor was trying to remember who cooked what.
+? Did the cooking instructor try to remember who cooked something? Yes
+
+# 2WH3WH 9 2wh_OS
+The cooking instructor was trying to remember what who cooked.
+? Did the cooking instructor try to remember who cooked something? Yes
+
+# 2WH3WH 10 3wh_SO
+The bicycle shop owner tried to figure out who rented what to whom.
+? Did the bicycle shop owner try to figure out something? Yes
+
+# 2WH3WH 10 3wh_OS
+The bicycle shop owner tried to figure out what who rented to whom.
+? Did the bicycle shop owner try to figure out something? Yes
+
+# 2WH3WH 10 2wh_SO
+The bicycle shop owner tried to figure out who rented what.
+? Did the bicycle shop owner try to figure out something? Yes
+
+# 2WH3WH 10 2wh_OS
+The bicycle shop owner tried to figure out what who rented.
+? Did the bicycle shop owner try to figure out something? Yes
+
+# 2WH3WH 11 3wh_SO
+The architecture students were trying to memorize who designed what when.
+? Did the architecture students try to memorize something? Yes
+
+# 2WH3WH 11 3wh_OS
+The architecture students were trying to memorize what who designed when.
+? Did the architecture students try to memorize something? Yes
+
+# 2WH3WH 11 2wh_SO
+The architecture students were trying to memorize who designed what.
+? Did the architecture students try to memorize something? Yes
+
+# 2WH3WH 11 2wh_OS
+The architecture students were trying to memorize what who designed.
+? Did the architecture students try to memorize something? Yes
+
+# 2WH3WH 12 3wh_SO
+The teacher tried to remember who presented what when.
+? Did the teacher try to remember something? Yes
+
+# 2WH3WH 12 3wh_OS
+The teacher tried to remember what who presented when.
+? Did the teacher try to remember something? Yes
+
+# 2WH3WH 12 2wh_SO
+The teacher tried to remember who presented what.
+? Did the teacher try to remember something? Yes
+
+# 2WH3WH 12 2wh_OS
+The teacher tried to remember what who presented.
+? Did the teacher try to remember something? Yes
+
+# 2WH3WH 13 3wh_SO
+The real estate manager tried to decide who would show what to whom.
+? Did the real estate manager try to decide something? Yes
+
+# 2WH3WH 13 3wh_OS
+The real estate manager tried to decide what who would show to whom.
+? Did the real estate manager try to decide something? Yes
+
+# 2WH3WH 13 2wh_SO
+The real estate manager tried to decide who would show what.
+? Did the real estate manager try to decide something? Yes
+
+# 2WH3WH 13 2wh_OS
+The real estate manager tried to decide what who would show.
+? Did the real estate manager try to decide something? Yes
+
+# 2WH3WH 14 3wh_SO
+The elementary school teacher tried to remember who read what to whom.
+? Did the school teacher try to remember something? Yes
+
+# 2WH3WH 14 3wh_OS
+The elementary school teacher tried to remember what who read to whom.
+? Did the school teacher try to remember something? Yes
+
+# 2WH3WH 14 2wh_SO
+The elementary school teacher tried to remember who read what.
+? Did the school teacher try to remember something? Yes
+
+# 2WH3WH 14 2wh_OS
+The elementary school teacher tried to remember what who read.
+? Did the school teacher try to remember something? Yes
+
+# 2WH3WH 15 3wh_SO
+The historian tried to figure out who built what for whom.
+? Did the historian try to figure out something? Yes
+
+# 2WH3WH 15 3wh_OS
+The historian tried to figure out what who built for whom.
+? Did the historian try to figure out something? Yes
+
+# 2WH3WH 15 2wh_SO
+The historian tried to figure out who built what.
+? Did the historian try to figure out something? Yes
+
+# 2WH3WH 15 2wh_OS
+The historian tried to figure out what who built.
+? Did the historian try to figure out something? Yes
+
+# 2WH3WH 16 3wh_SO
+The supervisor tried to find out who lent what to whom.
+? Did the supervisor try to lend some money? No
+
+# 2WH3WH 16 3wh_OS
+The supervisor tried to find out what who lent to whom.
+? Did the supervisor try to lend some money? No
+
+# 2WH3WH 16 2wh_SO
+The supervisor tried to find out who lent what.
+? Did the supervisor try to lend some money? No
+
+# 2WH3WH 16 2wh_OS
+The supervisor tried to find out what who lent.
+? Did the supervisor try to lend some money? No
+
+# 2WH3WH 17 3wh_SO
+The secretary for the clinic tried to figure out who prescribed what to whom.
+? Did the secretary try to prescribe something? No
+
+# 2WH3WH 17 3wh_OS
+The secretary for the clinic tried to figure out what who prescribed to whom.
+? Did the secretary try to prescribe something? No
+
+# 2WH3WH 17 2wh_SO
+The secretary for the clinic tried to figure out who prescribed what.
+? Did the secretary try to prescribe something? No
+
+# 2WH3WH 17 2wh_OS
+The secretary for the clinic tried to figure out what who prescribed.
+? Did the secretary try to prescribe something? No
+
+# 2WH3WH 18 3wh_SO
+The administrator tried to remember who donated what to whom.
+? Did the administrator try to donate something? No
+
+# 2WH3WH 18 3wh_OS
+The administrator tried to remember what who donated to whom.
+? Did the administrator try to donate something? No
+
+# 2WH3WH 18 2wh_SO
+The administrator tried to remember who donated what.
+? Did the administrator try to donate something? No
+
+# 2WH3WH 18 2wh_OS
+The administrator tried to remember what who donated.
+? Did the administrator try to donate something? No
+
+# 2WH3WH 19 3wh_SO
+The psychology student tried to remember who demonstrated what when.
+? Did the psychology student try to demonstrate something? No
+
+# 2WH3WH 19 3wh_OS
+The psychology student tried to remember what who demonstrated when.
+? Did the psychology student try to demonstrate something? No
+
+# 2WH3WH 19 2wh_SO
+The psychology student tried to remember who demonstrated what.
+? Did the psychology student try to demonstrate something? No
+
+# 2WH3WH 19 2wh_OS
+The psychology student tried to remember what who demonstrated.
+? Did the psychology student try to demonstrate something? No
+
+# 2WH3WH 20 3wh_SO
+The statistician tried to figure out who won what when.
+? Did the statistician try to win something? No
+
+# 2WH3WH 20 3wh_OS
+The statistician tried to figure out what who won when.
+? Did the statistician try to win something? No
+
+# 2WH3WH 20 2wh_SO
+The statistician tried to figure out who won what.
+? Did the statistician try to win something? No
+
+# 2WH3WH 20 2wh_OS
+The statistician tried to figure out what who won.
+? Did the statistician try to win something? No
+
+
+# filler 1 filler
+The chemist was trying to remember where the lab assistant kept the notebook.
+? Was the chemist trying to remember something? Yes
+
+# filler 2 filler
+The forester tried to decide whether the mushroom he found was poisonous.
+? Did the forester wonder about the mushroom that he found? Yes
+
+# filler 3 filler
+The seamstress tried to remember by when she promised the client to finish the dress.
+? Did the seamstress try to remember when the deadline for an order was? Yes
+
+# filler 4 filler
+The neighbor asked where the gardener had bought the seeds.
+? Did someone ask the gardener about the seeds? Yes
+
+# filler 5 filler
+The trainer could not understand why the tigers were misbehaving.
+? Was the trainer puzzled by the tigers' behavior? Yes
+
+# filler 6 filler
+The general was trying to decide when would be the best time to attack.
+? Was the general planning an attack? Yes
+
+# filler 7 filler
+The shepherd was wondering where the missing sheep could have wandered off.
+? Was the shepherd trying to locate a missing sheep? Yes
+
+# filler 8 filler
+The cashier was trying to find out where the salesman was.
+? Was the cashier looking for the salesman? Yes
+
+# filler 9 filler
+The cook asked the house mistress where the rice was kept.
+? Did the cook ask about the rice? Yes
+
+# filler 10 filler
+The student tried to find out why he got a bad grade on the test.
+? Did the student want to know the reason for a bad grade? Yes
+
+# filler 11 filler
+The journalist was confused about who kept leaving him anonymous phone messages.
+? Did the journalist wonder about who left him messages? Yes
+
+# filler 12 filler
+The prosecutor had no idea who the lawyer would bring as the expert witness.
+? Was the prosecutor clueless about the identity of the expert witness? Yes
+
+# filler 13 filler
+The investigator had to find out who left behind the weapon with no fingerprints.
+? Did the investigator need to find out who left the weapon? Yes
+
+# filler 14 filler
+The analyst could not decide who would finance the new enterprise.
+? Was the analyst trying to decide on the financing for the new enterprise? Yes
+
+# filler 15 filler
+The film director could not remember who played the lead role in the film his colleague just finished shooting.
+? Was the film director trying to remember something about his colleague's film? Yes
+
+# filler 16 filler
+The surgeon tried to figure out who was assisting the pathologist during the lab tests.
+? Did the surgeon want to know the identity of the pathologist's assistant? Yes
+
+# filler 17 filler
+The dean tried to figure out why the professor persistently recommended the lecturer who was not qualified for the job.
+? Was the dean puzzled by the professor's recommendation? Yes
+
+# filler 18 filler
+The reporter tried to find out who the governor respected and why.
+? Did the reporter want to know who the governor respected? Yes
+
+# filler 19 filler
+The residents were all trying to find out who was murdered last night and in which apartment.
+? Were the residents curious about who was murdered? Yes
+
+# filler 20 filler
+The writer could not decide who the main character would marry in the end of the novel.
+? Was the writer trying to figure out the ending of the novel? Yes
+
+# filler 21 filler
+The witness tried to remember at what time the victim left the bar and who left with him.
+? Was the victim trying to remember something? No
+
+# filler 22 filler
+The investigator was trying to clarify when the cardiologist consulted the surgeon.
+? Was the surgeon trying to clarify something about the cardiologist? No
+
+# filler 23 filler
+The policeman tried to find out why the conductor was so nervous throughout the interrogation.
+? Was the policeman nervous during the interrogation? No
+
+# filler 24 filler
+The principal tried to remember who the physics teacher didn't get along with last year.
+? Did the physics teacher try to remember something about the principal? No
+
+# filler 25 filler
+The referee tried to figure out who the forward insulted during the last play.
+? Did the forward insult the referee during the last play? No
+
+# filler 26 filler
+The dancer could not figure out what annoyed the choreographer so much recently.
+? Was the dancer annoyed recently? No
+
+# filler 27 filler
+The sociologist was trying to recall what it was that the psychologist discovered that made him famous.
+? Did the sociologist discover something that made him famous? No
+
+# filler 28 filler
+The accountant didn't realize who he was cheating until he got an email this morning.
+? Did the accountant know all along about who it was that he was cheating? No
+
+# filler 29 filler
+The scuba diver couldn't see what just swam by him because his light was very dim.
+? Was the scuba diver unable to see because his mask was fogged up? No
+
+# filler 30 filler
+The fitness instructor was trying to decide what routine to practice in Wednesday's night class.
+? Was the fitness instructor deciding on a routine for the Friday class? No
+
+# filler 31 filler
+The nutritionist was trying to find out what it was that was making the patient nauseous in the evenings.
+? Has the nutritionist been feeling nauseous in the evenings? No
+
+# filler 32 filler
+The students could not wait to find out what surprise the teacher was talking about in class.
+? Were the students preparing a surprise for the teacher? No
+
+# filler 33 filler
+The house owner came downstairs to find out what made such a racket but she didn't see anything suspicious.
+? Did the house owner make a racket? No
+
+# filler 34 filler
+The athlete was asking his doctor about what medicine he should take for the pain and how often.
+? Was the doctor asking the athlete about the frequency of his pains? No
+
+# filler 35 filler
+The telemarketer asked who the head of the household was, and the man just hung up the phone.
+? Did the telemarketer hang up the phone? No
+
+# filler 36 filler
+The car salesman was trying to remember who he promised the special deal this morning.
+? Was the car salesman trying to remember the price of the new car? No
+
+# filler 37 filler
+The motivational speaker at the workshop inquired about what made the attendees work 80 hours a week.
+? Did the speaker want to know about whether the attendees were married? No
+
+# filler 38 filler
+The farmer was trying to decide what achievement to submit to the fair this year.
+? Did the farmer decide not to go to the fair this year? No
+
+# filler 39 filler
+The bikini model was confused about why she was suddenly gaining weight.
+? Was the model concerned about wrinkles? No
+
+# filler 40 filler
+The elderly patient was grilling the doctor about what side-effects are possible with the medication.
+? Was the doctor concerned about the side-effects? No
+
